@@ -10,5 +10,5 @@ int main() {
             break;
 	    case 2:
             printf("You selected Two.\n");
-            
+          break;  
 
