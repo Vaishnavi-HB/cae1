@@ -16,7 +16,8 @@ int main() {
             break;
 	  case 4:
             printf("Invalid choice! Please enter 1, 2, or 3.\n");
-    }
+            print("not valid")
+ }
 
     return 0;
 }
