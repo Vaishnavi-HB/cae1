@@ -10,5 +10,14 @@ int main() {
             break;
 	    case 2:
             printf("You selected Two.\n");
-          break;  
+          break;
+	  case 3:
+            printf("You selected Three.\n");
+            break;
+	  case 4:
+            printf("Invalid choice! Please enter 1, 2, or 3.\n");
+    }
+
+    return 0;
+}
 
