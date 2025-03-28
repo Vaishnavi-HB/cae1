@@ -16,6 +16,7 @@ int main() {
             break;
 	  case 4:
             printf("Invalid choice! Please enter 1, 2, or 3.\n");
+	    printf("Btech mechanical");
     }
 
     return 0;
