@@ -10,6 +10,7 @@ int main() {
             break;
 	    case 2:
             printf("You selected Two.\n");
+	    printf("Btech CSE");
           break;
 	  case 3:
             printf("You selected Three.\n");
