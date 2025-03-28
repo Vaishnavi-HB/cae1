@@ -13,7 +13,8 @@ int main() {
           break;
 	  case 3:
             printf("You selected Three.\n");
-            break;
+            printf("Btech ECE");
+	    break;
 	  case 4:
             printf("Invalid choice! Please enter 1, 2, or 3.\n");
     }
